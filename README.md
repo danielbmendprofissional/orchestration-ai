@@ -4,6 +4,8 @@ Ecossistema de **engenharia assistida por IA, desenhado para o GitLab**: um proc
 
 > **Este repositório é a vitrine.** O ecossistema vive em um **grupo do GitLab com subgrupos** (`orchestration-ai/ai-pipeline/esteira/...`). O GitHub não tem subgrupos, então aqui cada projeto é um repositório da organização, agrupado pelo prefixo `orchestration-ai-` e pelo *topic* [`orchestration-ai`](https://github.com/search?q=topic%3Aorchestration-ai+org%3Adanielbmendprofissional&type=repositories). O histórico de commits é o original, completo.
 
+**[`fundamentos`](https://github.com/danielbmendprofissional/fundamentos)** Projeto onde estão todos os conteudos estudados e trabalhados na pratica ao longo da minha carreira profissional, foram base para esse projeto de orchestration.
+
 ## Estrutura original no GitLab × espelho no GitHub
 
 ```
